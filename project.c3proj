@@ -9,7 +9,7 @@
 		{
 			"type": "plugin",
 			"id": "Tilemap",
-			"name": "Tilemap",
+			"name": "Mosaico",
 			"author": "Scirra",
 			"version": "r225",
 			"bundled": false
@@ -17,7 +17,7 @@
 		{
 			"type": "plugin",
 			"id": "TiledBg",
-			"name": "Tiled Background",
+			"name": "Fundo em blocos",
 			"author": "Scirra",
 			"version": "r225",
 			"bundled": false
@@ -33,7 +33,7 @@
 		{
 			"type": "plugin",
 			"id": "Keyboard",
-			"name": "Keyboard",
+			"name": "Teclado",
 			"author": "Scirra",
 			"version": "r225",
 			"bundled": false
@@ -41,7 +41,7 @@
 		{
 			"type": "plugin",
 			"id": "Text",
-			"name": "Text",
+			"name": "Texto",
 			"author": "Scirra",
 			"version": "r225",
 			"bundled": false
@@ -49,7 +49,7 @@
 		{
 			"type": "plugin",
 			"id": "Arr",
-			"name": "Array",
+			"name": "Matriz",
 			"author": "Scirra",
 			"version": "r225",
 			"bundled": false
@@ -57,7 +57,7 @@
 		{
 			"type": "behavior",
 			"id": "solid",
-			"name": "Solid",
+			"name": "Sólido",
 			"author": "Scirra",
 			"version": "r225",
 			"bundled": false
@@ -65,7 +65,7 @@
 		{
 			"type": "behavior",
 			"id": "Platform",
-			"name": "Platform",
+			"name": "Plataforma",
 			"author": "Scirra",
 			"version": "r225",
 			"bundled": false
@@ -73,7 +73,7 @@
 		{
 			"type": "behavior",
 			"id": "scrollto",
-			"name": "Scroll To",
+			"name": "Centrar em",
 			"author": "Scirra",
 			"version": "r225",
 			"bundled": false
@@ -81,7 +81,7 @@
 		{
 			"type": "behavior",
 			"id": "Timer",
-			"name": "Timer",
+			"name": "Cronômetro",
 			"author": "Scirra",
 			"version": "r225",
 			"bundled": false
@@ -97,7 +97,8 @@
 			"atkState",
 			"Array",
 			"Text2",
-			"Sprite2"
+			"Sprite2",
+			"Sprite3"
 		],
 		"subfolders": []
 	},
